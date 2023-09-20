@@ -42,10 +42,16 @@ You may also see any lint errors in the console.
 
 
 ## Screenshots
-REGISTER PAGE:
+REGISTER_PAGE:
 
 ![App Screenshot](/REGISTER%20PAGE.png)
+
+LOGIN_PAGE:
+
 ![App Screenshot](/LOGIN%20PAGE.png)
+
+MAIN PAGE:
+
 ![App Screenshot](/MAIN%20PAGE.png)
 
 ## Authors
